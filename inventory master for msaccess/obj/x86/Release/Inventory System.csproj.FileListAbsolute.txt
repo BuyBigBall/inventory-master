@@ -1,0 +1,55 @@
+F:\Yanik blake\Inventory System-April-5-2016\bin\Release\Inventory System.exe.config
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.About.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Add_Category.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Add_Item.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.CreateUser.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Delete.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.DeleteUser.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Edit.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.ForgetPassword.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.InventoryTransaction.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.MainForm.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.NewRequest.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.ReceivableForm.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.ReceivedLog.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Reports.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Resource1.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.LoginForm.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.SupplierForm.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Units.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory_System.Update_Quantity.resources
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory System.csproj.GenerateResource.Cache
+F:\Yanik blake\Inventory System-April-5-2016\bin\Release\Inventory System.exe
+F:\Yanik blake\Inventory System-April-5-2016\bin\Release\itextsharp.dll
+F:\Yanik blake\Inventory System-April-5-2016\bin\Release\itextsharp.pdfa.dll
+F:\Yanik blake\Inventory System-April-5-2016\obj\x86\Release\Inventory System.exe
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\bin\Release\CIMS.exe.config
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\bin\Release\CIMS.exe
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\bin\Release\itextsharp.dll
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\bin\Release\itextsharp.pdfa.dll
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory System.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.About.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Add_Category.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Add_Item.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.CreateUser.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Delete.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.DeleteUser.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Edit.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.ForgetPassword.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Requests.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.InventoryTransaction.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.RequestForm.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.MainForm.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.NewRequest.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.ReceivableForm.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.ReceivedLog.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Reports.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.LoginForm.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.SupplierForm.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Units.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Update_Quantity.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory_System.Resource1.resources
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory System.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\Inventory System.csproj.CopyComplete
+C:\Users\Administrator\Downloads\inventory_management_desktop_app-master\obj\x86\Release\CIMS.exe
